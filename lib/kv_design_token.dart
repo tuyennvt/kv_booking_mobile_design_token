@@ -12,7 +12,7 @@ import 'theme/theme_collection2blue.dart';
 import 'theme/theme_collection3magenta.dart';
 import 'theme/theme_color_collections_blue_purple.dart';
 
-DesignToken designToken = DesignToken(
+var designToken = DesignToken(
   themeCollection1: ThemeCollection1Java(),
   themeColorCollections:
       ThemeColorCollectionsBluePurple(ThemeCollection2Blue()),
