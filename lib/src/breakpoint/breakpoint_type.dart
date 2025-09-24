@@ -1,0 +1,4 @@
+enum BreakpointType {
+  small,
+  medium,
+}

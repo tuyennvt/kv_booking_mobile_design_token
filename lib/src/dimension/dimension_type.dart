@@ -1,0 +1,4 @@
+enum DimensionMobileType {
+  small,
+  medium,
+}

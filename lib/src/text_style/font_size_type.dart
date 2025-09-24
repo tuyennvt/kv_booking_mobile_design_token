@@ -1,0 +1,4 @@
+enum FontSizeType {
+  mobile,
+  desktop,
+}

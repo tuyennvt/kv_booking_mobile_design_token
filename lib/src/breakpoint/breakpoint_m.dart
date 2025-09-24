@@ -1,4 +1,4 @@
-import '../kv_design_token.dart';
+import '../../kv_booking_mobile_design_token.dart';
 import 'breakpoint.dart';
 
 class BreakpointM implements Breakpoint {

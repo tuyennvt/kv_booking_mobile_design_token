@@ -1,4 +1,4 @@
-name: kv_design_token
+name: kv_booking_mobile_design_token
 description: "A new Flutter project."
 version: 1.0.0
 homepage:
@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  diacritic: any
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
   flutter_lints: any
